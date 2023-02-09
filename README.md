@@ -71,9 +71,6 @@ docker exec -it fast_api_app sh -c "pytest"
 
 ***
 
-### Author:
-> Email: [zaeemathar94@outlook.com](mailto:zaeemathar94@outlook.com) &nbsp;&middot;&nbsp;
-> LinkedIn [@zaeem-athar](https://www.linkedin.com/in/zaeem-athar/)
 
 
 
